@@ -85,7 +85,7 @@ The goal of this series is to:
 * Practice is more important than watching.
 * Don’t compare your journey with others.
 
-Keep going. You will improve 💪
+Keep going. You will improve
 
 ## Support
 

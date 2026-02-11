@@ -7,7 +7,7 @@ This repository is part of my **Daily Python learning series**, where I post one
 If you're new to programming, don’t worry.
 This series is made especially for beginners.
 
-## Who Is This For?
+## Who is This For?
 
 This series is perfect for:
 
@@ -21,46 +21,45 @@ This series is perfect for:
 
 We will cover Python from scratch:
 
-### Basics of Python
+###  Python Fundamentals
 
-* Jupyter Notebook & Identifiers
-* Data Types
-* Operators (Arithmetic, Logical, Bitwise, etc.)
-* Strings (Indexing, Slicing, Methods)
-* Lists and Their Methods
-* Tuples & Sets
-* Dictionaries
+1. Jupyter Basics & Identifiers
+2. Operators – Arithmetic, Relational & Miscellaneous
+3. Operators – Membership, Logical & Identity
+4. Operators – Bitwise, Unary & Precedence
+5. Basic Data Types
+6. Strings – Escape Characters, f-strings & Indexing
+7. Strings – Slicing & Methods
+8. Lists & Their Methods
+9. Tuples, Sets & Their Methods
+10. Dictionary & Its Methods
 
-### Flow Control & Functions
+###  Flow Control & Functions
 
-* If, Else, and Nested Conditions
-* Ternary Operator
-* For Loop
-* While Loop
-* Nested Loops
-* List Comprehension
-* Functions
-* Types of Arguments
-* Lambda Functions
-* Recursion
+11. Conditional Statements
+12. Nested if & Ternary Operator
+13. For Loop
+14. Nested Loops & List Comprehension
+15. While Loop
+16. Transfer Statements & Introduction to Functions
+17. Functions – Creation & Types of Arguments
+18. Lambda Functions & Recursion
+19. Exception Handling
+20. File Handling
 
-### Important Concepts
+###  Intermediate Python
 
-* Exception Handling
-* File Handling
-* Python Modules
-* Logic Building
-* Pattern Programming
+21. Python Modules
+22. Logic Building Session
+23. Pattern Programming
 
-### Object-Oriented Programming (OOP)
+###  Object-Oriented Programming (OOP)
 
-* Classes & Objects
-* Types of Variables
-* Methods
-* Inheritance
-* Polymorphism
-* Encapsulation
-* Abstraction
+24. OOP – Class, Object & Types of Variables
+25. OOP – Types of Variables & Methods
+26. OOP – Inheritance
+27. OOP – Polymorphism
+28. OOP – Encapsulation & Abstraction
 
 ## My Goal
 

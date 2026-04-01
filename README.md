@@ -24,15 +24,14 @@ We will cover Python from scratch:
 ###  Python Fundamentals
 
 1. Jupyter Basics & Identifiers
-2. Operators – Arithmetic, Relational & Miscellaneous
-3. Operators – Membership, Logical & Identity
-4. Operators – Bitwise, Unary & Precedence
-5. Basic Data Types
-6. Strings – Escape Characters, f-strings & Indexing
-7. Strings – Slicing & Methods
-8. Lists & Their Methods
-9. Tuples, Sets & Their Methods
-10. Dictionary & Its Methods
+2. Operators – Arithmetic, Relational & Membership
+3. Operators – Logical, Bitwise, Identity, Assignment
+4. Basic Data Types
+5. Strings – Escape Characters, f-strings & Indexing
+6. Strings – Slicing & Methods
+7. Lists & Their Methods
+8. Tuples, Sets & Their Methods
+9. Dictionary & Its Methods
 
 ###  Flow Control & Functions
 

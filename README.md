@@ -1,6 +1,6 @@
-# 🐍 Python for Beginners – Step-by-Step Learning Series
+# Python for Beginners – Step-by-Step Learning Series
 
-Welcome 👋
+Welcome,
 
 This repository is part of my **Daily Python learning series**, where I post one Python topic every day — starting from absolute basics and moving step-by-step towards Object-Oriented Programming (OOP).
 
@@ -11,11 +11,11 @@ This series is made especially for beginners.
 
 This series is perfect for:
 
-* ✅ Complete beginners with no coding background
-* ✅ Students starting Python
-* ✅ Anyone who wants to build strong fundamentals
-* ✅ Learners preparing for interviews
-* ✅ People who want to improve logic building
+* Complete beginners with no coding background
+* Students starting Python
+* Anyone who wants to build strong fundamentals
+* Learners preparing for interviews
+* People who want to improve logic building
 
 ## What You Will Learn
 
@@ -95,7 +95,7 @@ If this helps you:
 * Give feedback
 * Follow along daily
 
-### 🔥 Let’s Learn Python Together – One Day at a Time!
+###  Let’s Learn Python Together – One Day at a Time!
 
 Consistency > Motivation
 1% better every day.

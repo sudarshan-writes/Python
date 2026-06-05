@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Orbital Radar//Launch HQ//EN
+BEGIN:VEVENT
+DTSTART:20260605T063400Z
+DTEND:20260605T073400Z
+SUMMARY:Long March 8 | SpaceSail Polar Group #12  Long March 8 | SpaceSail Polar Group #12
+DESCRIPTION: launch from . Track live: https://orbitalradar.com/launch-schedule
+LOCATION:
+URL:https://orbitalradar.com/launch-schedule
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Launch in 15 minutes!
+END:VALARM
+END:VEVENT
+END:VCALENDAR
